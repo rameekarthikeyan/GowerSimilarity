@@ -1,2 +1,2 @@
 # GowerSimilarity
-This reposity contains R code for generating Gower Similarity
+This repository contains R code for generating Gower Similarity
